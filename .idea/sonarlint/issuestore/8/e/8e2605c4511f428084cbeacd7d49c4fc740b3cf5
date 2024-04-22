@@ -1,0 +1,7 @@
+
+”
+java:S1192"QDefine a constant instead of duplicating this literal "application/json" 3 times.(ªŞÃı8è­ÿûí1J$d36bf162-bf09-4d4f-9575-2eddd453be95
+ˆ
+java:S1192"FDefine a constant instead of duplicating this literal "UTF-8" 3 times.(ç›Ï8é­ÿûí1J$c250e402-1bcb-485d-916d-ace133c13ce5
+}
+java:S1118":Add a private constructor to hide the implicit public one.(Ç”ãã8Šıûí1J$41eb91c2-5fd7-49c1-bdbf-8ab036ef3cc0
